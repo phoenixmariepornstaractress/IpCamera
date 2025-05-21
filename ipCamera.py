@@ -1,4 +1,4 @@
-# The code has been written by MariyaSha and then, has been developed by phoenix marie.
+# The code was originally written by MariyaSha and later developed further by Phoenix Marie.
 
 import cv2
 import numpy as np
